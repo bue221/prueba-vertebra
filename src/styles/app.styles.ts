@@ -1,4 +1,4 @@
-import { IStyles } from "components/EcoCard/styles";
+import { IStyles } from "../components/EcoCard/styles";
 
 export const styles: IStyles = {
   mainLayout: { display: "flex", height: "100vh" },
